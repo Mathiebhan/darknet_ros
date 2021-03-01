@@ -2,7 +2,7 @@
 
 I recommend looking into: https://github.com/AlexeyAB/darknet
 
-## YOLO ROS: Real-Time Object Detection for ROS
+# YOLO ROS: Real-Time Object Detection for ROS
 
 The YOLO packages have been tested under ROS Melodic and Jetpack 4.5 (Ubuntu 18.04) with a Jetson Nano Developer Kit
 
