@@ -1,4 +1,5 @@
 # Train your own weights
+For labellin you can use BBOX or anything that is friendly with YOLO
 
 I recommend looking into: https://github.com/AlexeyAB/darknet
 
