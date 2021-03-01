@@ -1,9 +1,13 @@
-# YOLO ROS: Real-Time Object Detection for ROS
+# Train your own weights
+
+I recommend looking into: https://github.com/AlexeyAB/darknet
+
+## YOLO ROS: Real-Time Object Detection for ROS
 
 The YOLO packages have been tested under ROS Melodic and Ubuntu 18.04. This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 
-## Installation
+### Installation
 
 In order to install darknet_ros, clone the latest version using SSH (see [how to set up an SSH key](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)) from this repository into your catkin workspace and compile the package using ROS.
 
@@ -19,6 +23,10 @@ or using the [Catkin Command Line Tools](http://catkin-tools.readthedocs.io/en/l
 
     catkin build darknet_ros -DCMAKE_BUILD_TYPE=Release
 
+### Weights
+The weights can be downloaded from my drive.
+
+https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE
 
 
 ### Use your own detection objects
