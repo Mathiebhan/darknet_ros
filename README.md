@@ -44,3 +44,14 @@ Then in the launch file you have to point to your new config file in the line:
 
     <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/your_config_file.yaml"/>
 
+### Yolov3
+
+![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/2.png)
+
+
+### Yolov4
+
+![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/1.png)
+
+    
+
