@@ -4,7 +4,7 @@ I recommend looking into: https://github.com/AlexeyAB/darknet
 
 ## YOLO ROS: Real-Time Object Detection for ROS
 
-The YOLO packages have been tested under ROS Melodic and Ubuntu 18.04. This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
+The YOLO packages have been tested under ROS Melodic and Ubuntu 18.04. 
 
 
 ### Installation
