@@ -1,6 +1,8 @@
 # Train your own weights
 For labelling you can use BBOX or anything that is friendly with YOLO
 
+https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeLnQ-Gj/view?usp=sharing
+
 I recommend looking into: https://github.com/AlexeyAB/darknet
 
 # YOLO ROS: Real-Time Object Detection for ROS
