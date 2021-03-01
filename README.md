@@ -5,17 +5,6 @@ The YOLO packages have been tested under ROS Melodic and Ubuntu 18.04. This is r
 
 ## Installation
 
-### Dependencies
-
-This software is built on the Robotic Operating System ([ROS]), which needs to be [installed](http://wiki.ros.org) first. Additionally, YOLO for ROS depends on following software:
-
-- [OpenCV](http://opencv.org/) (computer vision library),
-- [boost](http://www.boost.org/) (c++ library),
-
-### Building
-
-[![Build Status](https://ci.leggedrobotics.com/buildStatus/icon?job=github_leggedrobotics/darknet_ros/master)](https://ci.leggedrobotics.com/job/github_leggedrobotics/job/darknet_ros/job/master/)
-
 In order to install darknet_ros, clone the latest version using SSH (see [how to set up an SSH key](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)) from this repository into your catkin workspace and compile the package using ROS.
 
     cd catkin_workspace/src
