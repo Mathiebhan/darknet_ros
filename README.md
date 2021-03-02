@@ -5,7 +5,7 @@ BBOX: https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeLnQ-Gj/view?usp
 
 I recommend looking into: https://github.com/AlexeyAB/darknet
 
-How to get started: https://drive.google.com/file/d/1y_nlC1tEtUYXneZ5xcLQoFtDuadH958w/view?usp=sharing
+How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6SJSOyP/view?usp=sharing
 
 # YOLO ROS: Real-Time Object Detection for ROS
 
