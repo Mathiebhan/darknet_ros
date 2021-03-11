@@ -48,6 +48,8 @@ In addition, you need to create your config file for ROS where you define the na
 Then in the launch file you have to point to your new config file in the line:
 
     <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/your_config_file.yaml"/>
+    
+Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam and CSI cam from https://github.com/sfalexrog/jetson_camera 
 
 ### Yolov3-tiny
 
