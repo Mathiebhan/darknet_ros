@@ -17,8 +17,8 @@ The YOLO packages have been tested under ROS Melodic and Jetpack 4.5 (Ubuntu 18.
 In order to install darknet_ros, clone the latest version using SSH (see [how to set up an SSH key](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)) from this repository into your catkin workspace and compile the package using ROS.
 
 
-!!!!ALERT THIS ONLY WORKS FOR opencv3!!!!!!
-Use this repo for opencv4 https://github.com/kunaltyagi/darknet_ros/tree/opencv4
+!!!!ALERT THIS ONLY WORKS FOR opencv3.4!!!!!!
+Use this repo for opencv4 https://github.com/kunaltyagi/darknet_ros/tree/opencv4 but only yolov2-v3 works
 
     cd catkin_workspace/src
     git clone --recursive git@github.com:mathiebhan/darknet_ros.git
