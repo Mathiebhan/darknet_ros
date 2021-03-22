@@ -47,6 +47,10 @@ The weights can be downloaded from my drive.
      
  Put it in this file location:    catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
  
+ Source  your workspace: source devel/setup.bash
+ 
+ cd /src/darknet_ros/darknet_ros/launch you can launch roslaunch darknet_ros_usb_cam.launch 
+ 
      
 Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
 
