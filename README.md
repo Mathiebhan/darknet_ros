@@ -8,10 +8,10 @@ I recommend looking into: https://github.com/AlexeyAB/darknet
 How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6SJSOyP/view?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Datasets used are from: 
 
-- Datasets used are from: 
-https://www.immersivelimit.com/datasets/cigarette-butts
-https://www.kaggle.com/estebanpacanchique/cigarette-butt
+- https://www.immersivelimit.com/datasets/cigarette-butts
+- https://www.kaggle.com/estebanpacanchique/cigarette-butt
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
