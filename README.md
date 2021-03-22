@@ -47,7 +47,7 @@ The weights can be downloaded from my drive.
      
      catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
 
-### Use your own detection objects (opitional part my repo has this done for you)
+### Use your own detection objects (optional part my repo has this done for you)
 
 In order to use your own detection objects you need to provide your weights and your cfg file inside the directories:
   
