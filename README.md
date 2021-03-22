@@ -9,8 +9,11 @@ How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6S
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- Datasets used are from: 
+https://www.immersivelimit.com/datasets/cigarette-butts
+https://www.kaggle.com/estebanpacanchique/cigarette-butt
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # YOLO ROS: Real-Time Object Detection for ROS
 
@@ -58,7 +61,7 @@ Then in the launch file you have to point to your new config file in the line:
 
     <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/your_config_file.yaml"/>
     
-Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam and CSI cam from https://github.com/sfalexrog/jetson_camera 
+Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
 
 ### Yolov3-tiny
 
