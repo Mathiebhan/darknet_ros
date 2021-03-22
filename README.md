@@ -1,4 +1,4 @@
-# Train your own weights (Can be done on Windows, Linux and Colab)
+# NOT ROS: Train your own weights (Can be done on Windows, Linux and Colab)
 For labelling you can use BBOX or anything that is friendly with YOLO
 
 How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6SJSOyP/view?usp=sharing
