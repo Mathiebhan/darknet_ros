@@ -45,7 +45,7 @@ The weights can be downloaded from my drive.
 
 - https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE 
      
-     catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
+ Put it in this file location:    catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
 
 ### Use your own detection objects (optional part my repo has this done for you)
 
