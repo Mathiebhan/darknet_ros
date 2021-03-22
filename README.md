@@ -13,6 +13,8 @@ BBOX for labelling: https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeL
 - https://www.immersivelimit.com/datasets/cigarette-butts
 - https://www.kaggle.com/estebanpacanchique/cigarette-butt
 
+My dataset: https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 # YOLO ROS: Real-Time Object Detection for ROS
