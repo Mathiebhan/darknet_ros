@@ -46,6 +46,9 @@ The weights can be downloaded from my drive.
 - https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE 
      
  Put it in this file location:    catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
+ 
+     
+Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
 
 ### Use your own detection objects (optional part my repo has this done for you)
 
@@ -60,8 +63,7 @@ In addition, you need to create your config file for ROS where you define the na
 Then in the launch file you have to point to your new config file in the line:
 
     <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/your_config_file.yaml"/>
-    
-Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
+
 
 ### Yolov3-tiny
 
