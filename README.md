@@ -1,11 +1,11 @@
 # Train your own weights (Can be done on Windows, Linux and Colab)
 For labelling you can use BBOX or anything that is friendly with YOLO
 
-BBOX: https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeLnQ-Gj/view?usp=sharing
+How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6SJSOyP/view?usp=sharing
 
 I recommend looking into: https://github.com/AlexeyAB/darknet
 
-How to get started: https://drive.google.com/file/d/1L6AJDgrG3DzuDQhHzu-XnsHfL6SJSOyP/view?usp=sharing
+BBOX for labelling: https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeLnQ-Gj/view?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Datasets used are from: 
