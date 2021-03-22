@@ -49,9 +49,10 @@ The weights can be downloaded from my drive.
  
  Source your workspace: source devel/setup.bash
  
- cd /src/darknet_ros/darknet_ros/launch you can then launch roslaunch darknet_ros_usb_cam.launch 
+ cd /src/darknet_ros/darknet_ros/launch 
  
-     
+ you can then launch roslaunch darknet_ros_usb_cam.launch 
+ 
 Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
 
 ### Use your own detection objects (optional part my repo has this done for you)
