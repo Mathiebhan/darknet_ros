@@ -40,7 +40,7 @@ or using the [Catkin Command Line Tools](http://catkin-tools.readthedocs.io/en/l
 
     catkin build darknet_ros -DCMAKE_BUILD_TYPE=Release
 
-### Weights for cigarette butts
+### Weights and labelled images for cigarette butts
 The weights can be downloaded from my drive. (Also the labelled images)
 
 - https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE 
