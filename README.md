@@ -43,14 +43,14 @@ or using the [Catkin Command Line Tools](http://catkin-tools.readthedocs.io/en/l
 ### Weights for cigarette butts
 The weights can be downloaded from my drive.
 
-- https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE
+- https://drive.google.com/drive/folders/1FedP8PPMcz5fOFMcLrToPjFqonRJZlUE 
+     
+     catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/ 
 
-
-### Use your own detection objects
+### Use your own detection objects (opitional part my repo has this done for you)
 
 In order to use your own detection objects you need to provide your weights and your cfg file inside the directories:
-
-    catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/weights/
+  
     catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/cfg/
 
 In addition, you need to create your config file for ROS where you define the names of the detection objects. You need to include it inside:
