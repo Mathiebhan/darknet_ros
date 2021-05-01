@@ -82,12 +82,27 @@ Then in the launch file you have to point to your new config file in the line:
 ![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/1.png)
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Distance Estimation (Images and Videos) - Currently works on Python Only
 
+Use the YoloDistanceMeasurement folder. For YOLOV4/tiny use folder YOLOV4. Remember to download the weights from my repo.
+  
+    pip install opencv_python
+    pip install numpy
+    pip install pandas
+    pip install matplotlib
+    pip install Pillow
+
+Then run python3 object_detection.py
+
 ![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/3.png)
 
+
+
+Use the YoloDistanceImages folder. Remember to download the weights from my repo.
+  
+On terminal/cmd type python butt.py
 
 ![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/4.png)
 
