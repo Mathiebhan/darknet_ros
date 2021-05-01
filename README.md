@@ -81,5 +81,15 @@ Then in the launch file you have to point to your new config file in the line:
 
 ![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/1.png)
 
-    
+
+
+
+# Distance Estimation (Images and Videos) - Currently works on Python Only
+
+![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/3.png)
+
+
+![alt text](https://github.com/Mathiebhan/darknet_ros/blob/master/4.png)
+
+
 
