@@ -7,6 +7,8 @@ I recommend looking into: https://github.com/AlexeyAB/darknet
 
 BBOX for labelling: https://drive.google.com/file/d/1zy2duo2lZXkVcst5DWbmQPmHPeLnQ-Gj/view?usp=sharing
 
+DarkMark and DarkHelp for advance labelling and augmentation: https://github.com/stephanecharette/DarkMark
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Datasets used are from: 
 
