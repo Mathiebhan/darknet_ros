@@ -7,7 +7,7 @@ min_confidence=0.14
 
 net = cv2.dnn.readNetFromDarknet(config,model)
 
-# Load coco
+
 with open("lib/obj.names", "r") as f:
     classes = [line.strip() for line in f.readlines()]
 layer_names = net.getLayerNames()
