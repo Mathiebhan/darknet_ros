@@ -57,7 +57,7 @@ The weights can be downloaded from my drive. (Also the labelled images)
  
  you can then launch roslaunch darknet_ros_usb_cam.launch 
  
-Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera 
+Of course usb_cam is needed from ROS https://github.com/ros-drivers/usb_cam (sudo apt install ros-melodic-usb-cam) and CSI cam from https://github.com/sfalexrog/jetson_camera. For IPcamera https://github.com/alireza-hosseini/ipcamera_driver.
 
 ### Use your own detection objects (optional part my repo has this done for you)
 
